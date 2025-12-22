@@ -18,6 +18,6 @@ Machine Learning (https://url-shortener.me/4RLM)
 
 📫 **Vamos conversar?**
 - 💼 [LinkedIn](https://www.linkedin.com/in/alexandresantoss/)
-- 📧 [Alexandresanto134@gmail.com]
+- 📧 Alexandresanto134@gmail.com
 - 🌐 https://portfoliosantos.lovable.app/
 
