@@ -1,16 +1,23 @@
-## Hi there 👋
+### Olá! Eu sou o Alexandre dos Santos 👋
 
-<!--
-**AlexandreSantosRodrigues/AlexandreSantosRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um **Analista de Dados** focado por transformar o Lucro em ROI.
 
-Here are some ideas to get you started:
+🔭 **No momento:**
+- Estou trabalhando com Power BI, Data Looker, SQL, Python e postgreSQL.
+- Estudando Machine Learning e Data Science.
+- Buscando oportunidades para aplicar meus conhecimentos em setores financeiros e educativos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Ferramentas & Tecnologias:**
+
+Power BI (https://url-shortener.me/4RKS)
+Python (https://url-shortener.me/4RL1)
+Machine Learning (https://url-shortener.me/4RLM)
+
+- **Linguagens:** [Python, SQL, JavaScript, CSS]
+- **Softwares:** [Power BI, Looker Studio, Excel]
+
+📫 **Vamos conversar?**
+- 💼 [LinkedIn](https://www.linkedin.com/in/alexandresantoss/)
+- 📧 [Alexandresanto134@gmail.com]
+- 🌐 https://portfoliosantos.lovable.app/
+
