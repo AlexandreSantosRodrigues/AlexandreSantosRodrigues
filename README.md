@@ -3,7 +3,7 @@
 Sou um **Analista de Dados** focado por transformar o Lucro em ROI.
 
 🔭 **No momento:**
-- Estou trabalhando com Power BI, Data Looker, SQL, Python e postgreSQL.
+- Possuo habilidades em Power BI, Data Looker, SQL, Python, Excel e postgreSQL.
 - Estudando Machine Learning e Data Science.
 - Buscando oportunidades para aplicar meus conhecimentos em setores financeiros e educativos.
 
