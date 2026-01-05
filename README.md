@@ -9,9 +9,10 @@ Sou um **Analista de Dados** focado por transformar o Lucro em ROI.
 
 🛠️ **Ferramentas & Tecnologias:**
 
-Power BI (https://url-shortener.me/4RKS)
-Python (https://url-shortener.me/4RL1)
-Machine Learning (https://url-shortener.me/4RLM)
+Power BI 
+Python 
+SQL
+Machine Learning 
 
 - **Linguagens:** [Python, SQL, JavaScript, CSS]
 - **Softwares:** [Power BI, Looker Studio, Excel]
