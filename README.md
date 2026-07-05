@@ -18,7 +18,7 @@ Machine Learning
 - **Softwares:** [Power BI, Looker Studio, Excel]
 
 📫 **Vamos conversar?**
-- 💼 [LinkedIn](https://www.linkedin.com/in/alexandresantoss/)
+- 💼 [LinkedIn]((https://www.linkedin.com/in/alexandresantosdata/))
 - 📧 Alexandresanto134@gmail.com
 - 🌐 https://portfoliosantos.lovable.app/
 
