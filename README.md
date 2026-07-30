@@ -34,15 +34,15 @@ Para escalar soluções rapidamente, utilizo as tecnologias mais modernas do mer
 <div align="center">
 
 ![GCP](https://img.shields.io/badge/GCP-FF7F50?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-6A5ACD?style=for-the-badge&logo=databricks&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FF7F50?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-6A5ACD?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF7F50?style=for-the-badge&logo=databricks&logoColor=white)
+![Python](https://img.shields.io/badge/Python-6A5ACD?style=for-the-badge&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-FF7F50?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-6A5ACD?style=for-the-badge&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-FF7F50?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-6A5ACD?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-FF7F50?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-6A5ACD?style=for-the-badge&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 </div>
 
