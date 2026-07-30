@@ -41,6 +41,8 @@ Para escalar soluções rapidamente, utilizo as tecnologias mais modernas do mer
 ![Power BI](https://img.shields.io/badge/PowerBI-6A5ACD?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-FF7F50?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-6A5ACD?style=for-the-badge&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 </div>
 
