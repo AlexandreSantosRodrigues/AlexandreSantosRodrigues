@@ -63,16 +63,6 @@ Meus melhores casos de uso (desde Data Warehouses complexos até RAG models) est
 
 👉 **[Acesse meu portfolio de dashboards e python](https://portfoliosantos.lovable.app/)**
 
----
-
-### 📈 Desempenho e Contribuições (GitHub Analytics)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexandresantosdata&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexandresantosdata&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</div>
-
----
 
 ### 🤝 Vamos Construir Juntos?
 
